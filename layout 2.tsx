@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata={title:"WishMap — Карта желаний",description:"Визуализируй мечты и превращай их в цели"}; export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="ru"><body>{children}</body></html>;}
